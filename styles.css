@@ -129,11 +129,6 @@ a#about p.lead{
   }
 
 
-footer{
-    background-color: rgba(0, 0, 0, 0.5);
-    padding-top: 300px;
-}
-
 h1{
     color: blue;
     text-align: center;
@@ -169,6 +164,74 @@ h1{
     padding-left: 200px;
     padding-right: 200px;
 }
+.footer {
+    background-color: #303036 ;
+    color: #d3d3d3;
+    height: 400px;
+    position: relative;
+    font-size: 18px;
+}
+
+.footer .footer-bottom {
+   background-color: #343a40;
+   color: #686868;
+   height: 50px;
+   text-align: center;
+   position: absolute;
+   bottom: 0px;
+   left: 0px;
+   padding-top: 20px;
+   width: 100%;
+
+}
+
+
+.footer .footer-top {
+   display: flex;
+   height: 350px;
+}
+
+.footer .footer-top h4 {
+   flex: 1;
+   border: 2px solid white;
+   margin-left: 30px;
+   margin-top: 10px;
+   text-align: center;
+}
+
+.footer .footer-top h4 span {
+   color: aqua;
+   font-size: 30px;
+   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.footer .footer-top img {
+    margin-left: 20px;
+    border-radius: 30%;
+    box-shadow: 2px 2px 2px grey;
+    margin: 0px;
+    float: left;
+}
+
+
+.footer .footer-top img:hover {
+    box-shadow: 6px 6px 6px grey;
+}
+
+
+.footer .footer-top h4 p {
+    font-size: 20px;
+}
+.footer .footer-top h4 p b {
+    color: black;
+}
+
+ .icons a img {
+    padding: 10px;
+
+}
+
 
 
 
