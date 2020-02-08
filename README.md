@@ -41,7 +41,7 @@ Fork the repo
 
 ## Authors
 
-* **not forked the and there where no other contributer apart from me
+ **not forked the and there where no other contributer apart from me
 
 ## License
 
