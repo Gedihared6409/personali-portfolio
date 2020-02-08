@@ -41,11 +41,12 @@ Fork the repo
 
 ## Authors
 
- **not forked the and there where no other contributer apart from me
+ * not forked the and there where no other contributer apart from me
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+# [LICENSE.md](LICENSE.md) 
 
 ## Acknowledgments
 
