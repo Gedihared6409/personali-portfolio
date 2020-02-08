@@ -1,82 +1,47 @@
 # personali-portfolio
 information about myself
-# Project Title
 
-One Paragraph of project description goes here
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+this is how to download the project
+*On GitHub, navigate to the main page of the repository. ...
+*Under the repository name, click Clone or download.
+*To clone the repository using HTTPS, under "Clone with HTTPS", click . ...
+*Open Terminal .
+*Change the current working directory to the location where you want the cloned directory to be made.
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+the website does not need any other software to display 
+just only a data bundle
 
-```
-Give examples
-```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
+Want to contribute? Great!
 
-Add additional notes about how to deploy this on a live system
+To fix a bug or enhance an existing module, follow these steps:
+
+Fork the repo
+*Create a new branch (git checkout -b improve-feature)
+*Make the appropriate changes in the files
+*Add changes to reflect the changes made
+*Commit your changes (git commit -am 'Improve feature')
+*Push to the branch (git push origin improve-feature)
+*Create a Pull Request
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* HTML
+* CSS
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **not forked the and there where no other contributer apart from me
 
 ## License
 
@@ -84,6 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Best to w3schools
+* also udacity
+* 
