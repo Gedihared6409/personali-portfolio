@@ -43,14 +43,13 @@ Fork the repo
 
  * not forked the and there where no other contributer apart from me
 
-## License
-
-
-# [LICENSE.md](LICENSE) 
-MIT[ALI HARED](ALI HARED) 
-
 ## Acknowledgments
 
 * Best to w3schools
 * also udacity
 * 
+
+
+# [LICENSE.md](LICENSE) 
+MIT[ALI hared](ALI HARED) 
+
