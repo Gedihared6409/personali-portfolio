@@ -46,7 +46,8 @@ Fork the repo
 ## License
 
 
-# [LICENSE.md](LICENSE.md) 
+# [LICENSE.md](LICENSE) 
+MIT[ALI HARED](ALI HARED) 
 
 ## Acknowledgments
 
