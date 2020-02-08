@@ -51,5 +51,5 @@ Fork the repo
 
 
 # [LICENSE.md](LICENSE) 
-MIT [ALI hared](ALI HARED) 
+MIT [ALI](ALI) 
 
